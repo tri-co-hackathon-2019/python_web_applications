@@ -1,4 +1,4 @@
-Disk images on GCP, AWS, DO 
+Disk images on [AWS](https://aws.amazon.com/marketplace/search/results?searchTerms=django), [DO](https://www.digitalocean.com/docs/one-clicks/django/) 
 
 Serverless
 [GCP](https://cloud.google.com/python/django/)  
