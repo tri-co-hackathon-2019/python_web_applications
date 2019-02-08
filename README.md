@@ -8,19 +8,12 @@ This repo contains materials for the Python Web Applications Session
 from flask import Flask, render_template, request, session, flash, redirect, url_for, g
 import random
 import csv
-
-#DATABASE = 'immigration_vocabulary.csv' #configuration
 app = Flask(__name__)
 application = app
 
-#app.config.from_object(__name__) # pulls in configurations by looking for UPPERCASE variables
-
-#def connect_csv():
-#    return csv.connect(app.config['DATABASE'])
-
 @app.route('/')
 def main():
-    file_name = 'immigration_vocabulary.csv' #this needs to be set to the current path
+    file_name = 'immigration_vocabulary.csv' 
     dict_list = []
 
     with open(file_name, 'rb') as fd:
@@ -45,7 +38,8 @@ def main():
 
 if __name__ == '__main__':
     app.run(debug=True)```
-    
+```
+
 # Django
 * [Mozilla Django Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
 * [Real Python Django Tutorials](https://realpython.com/tutorials/django/)  
