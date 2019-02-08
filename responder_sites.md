@@ -14,3 +14,9 @@ async def hello(req, resp):
 if __name__ == "__main__":
     api.run()```
     
+To template:  
+```python
+@api.route("/hello/{who}/html")
+def hello_html(req, resp, *, who):
+    resp.content = api.template('hello.html', who=who)
+    ```
