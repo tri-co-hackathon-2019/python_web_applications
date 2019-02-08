@@ -1,3 +1,5 @@
+# [DIY LEMP stack](https://github.com/HCDigitalScholarship/documentation/blob/master/lemp_stack.md)  
+
 # Disk images on 
 * [AWS](https://aws.amazon.com/marketplace/search/results?searchTerms=django)
 * [DO](https://www.digitalocean.com/docs/one-clicks/django/) 
