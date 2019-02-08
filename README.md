@@ -10,7 +10,7 @@ Is your app:
 - [x] pulls its data from an external source
 - [x] More a proof of concept than a production app 
 
-
+[Paper Title Generator](http://ajanco.sites.haverford.edu/immigration) 
 Simple mad lib style paper title generator.  Based on most frequently occuring terms in the books and articles assigned for a class.  The script adds plausible title parts interspersed with terms from the list. 
 
 ```python
