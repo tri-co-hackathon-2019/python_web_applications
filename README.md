@@ -4,6 +4,12 @@ This repo contains materials for the Python Web Applications Session
 [Top 10 Python Web Frameworks to Learn in 2018](https://hackernoon.com/top-10-python-web-frameworks-to-learn-in-2018-b2ebab969d1a)
 
 # Flask on [sites.haverford](https://sites.haverford.edu/) or [digital.brynmawr](https://digital.brynmawr.edu/)
+Is your app:
+- [ ] simple
+- [ ] performs one clear task
+- [ ] pulls its data from an external source
+- [ ] More a proof of concept than a production app 
+
 
 Simple mad lib style paper title generator.  Based on most frequently occuring terms in the books and articles assigned for a class.  The script adds plausible title parts interspersed with terms from the list. 
 
@@ -45,6 +51,12 @@ if __name__ == '__main__':
 [Instructions to deploy on sites.hc or digital.bmc](https://github.com/tri-co-hackathon-2019/python_web_applications/blob/master/Python%20at%20Reclaim%20Hosting.pdf)
 
 # Django
+Do you need:
+- [ ] To manage data in a database or multiple types of databases
+- [ ] Easy user accounts and user groups
+- [ ] Need to keep data secure
+- [ ] Needed for production
+
 * [Mozilla Django Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
 * [Real Python Django Tutorials](https://realpython.com/tutorials/django/)  
 * [Django Girls](https://djangogirls.org/) 
