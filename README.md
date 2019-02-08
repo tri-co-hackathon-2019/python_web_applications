@@ -62,7 +62,7 @@ Do you need:
 * [Real Python Django Tutorials](https://realpython.com/tutorials/django/)  
 * [Django Girls](https://djangogirls.org/) 
 * [Haverford College Django Cookbook](https://github.com/HCDigitalScholarship/ds-cookbook)    
-* [Example App 90-Sourcebook](https://slavicdh.apjan.co/)  
+* [Example App 90-Sourcebook](https://slavicdh.apjan.co/)  [repo](https://github.com/apjanco/90s-sourcebook)
 
 * Simple content management, [Django flatpages](https://github.com/HCDigitalScholarship/ds-cookbook/tree/master/django_flatpages)
 * For spatial data, [GeoDjango](https://github.com/HCDigitalScholarship/ds-cookbook/tree/master/GeoDjango%20and%20Geocoding)
