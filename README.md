@@ -42,7 +42,7 @@ def main():
 if __name__ == '__main__':
     app.run(debug=True)```
 ```
-[Instructions to deploy on sites.hc or digital.bmc](link)
+[Instructions to deploy on sites.hc or digital.bmc](https://github.com/tri-co-hackathon-2019/python_web_applications/blob/master/Python%20at%20Reclaim%20Hosting.pdf)
 
 # Django
 * [Mozilla Django Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
