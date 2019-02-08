@@ -5,10 +5,10 @@ This repo contains materials for the Python Web Applications Session
 
 # Flask on [sites.haverford](https://sites.haverford.edu/) or [digital.brynmawr](https://digital.brynmawr.edu/)
 Is your app:
-- [ ] simple
-- [ ] performs one clear task
-- [ ] pulls its data from an external source
-- [ ] More a proof of concept than a production app 
+- [x] simple
+- [x] performs one clear task
+- [x] pulls its data from an external source
+- [x] More a proof of concept than a production app 
 
 
 Simple mad lib style paper title generator.  Based on most frequently occuring terms in the books and articles assigned for a class.  The script adds plausible title parts interspersed with terms from the list. 
@@ -52,10 +52,10 @@ if __name__ == '__main__':
 
 # Django
 Do you need:
-- [ ] To manage data in a database or multiple types of databases
-- [ ] Easy user accounts and user groups
-- [ ] Need to keep data secure
-- [ ] Needed for production
+- [x] To manage data in a database or multiple types of databases
+- [x] Easy user accounts and user groups
+- [x] Need to keep data secure
+- [x] Needed for production
 
 * [Mozilla Django Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
 * [Real Python Django Tutorials](https://realpython.com/tutorials/django/)  
