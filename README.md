@@ -3,7 +3,10 @@ This repo contains materials for the Python Web Applications Session
 
 [Top 10 Python Web Frameworks to Learn in 2018](https://hackernoon.com/top-10-python-web-frameworks-to-learn-in-2018-b2ebab969d1a)
 
-# Flask on sites.haverford or digital.brynmawr
+# Flask on [sites.haverford](https://sites.haverford.edu/) or [digital.brynmawr](https://digital.brynmawr.edu/)
+
+Simple mad lib style paper title generator.  Based on most frequently occuring terms in the books and articles assigned for a class.  The script adds plausible title parts interspersed with terms from the list. 
+
 ```python
 from flask import Flask, render_template, request, session, flash, redirect, url_for, g
 import random
@@ -39,6 +42,7 @@ def main():
 if __name__ == '__main__':
     app.run(debug=True)```
 ```
+[Instructions to deploy on sites.hc or digital.bmc](link)
 
 # Django
 * [Mozilla Django Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django)
