@@ -28,7 +28,7 @@ $ FLASK_APP=app.py flask run
 ![alt text](https://raw.githubusercontent.com/tri-co-hackathon-2019/python_web_applications/master/Screen%20Shot%202019-02-08%20at%209.24.40%20PM.png
  "File manager image")
 
-* Setup Python App in the Software section 
+* Setup Python App in the Software section   
 ![alt text](https://raw.githubusercontent.com/tri-co-hackathon-2019/python_web_applications/master/Screen%20Shot%202019-02-08%20at%209.24.52%20PM.png
  "Python apps image")
 
