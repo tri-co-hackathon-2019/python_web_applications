@@ -50,3 +50,5 @@ $ FLASK_APP=app.py flask run
 
 8) Now go back to Setup Python App.  Click on `WGI file location` and click Edit.  Here you enter the path to your file, the filename and :application.  So my file location will be `/home/ajancosi/testing/public` (from step 7), plus `app.py` (from section I step 1), and then `:application`.  Together I get `/home/ajancosi/testing/public/app.py:application`. Now click Save and Update. 
 
+9) Test your app by going to the address in App URI.  You should see `Hello World!`
+
