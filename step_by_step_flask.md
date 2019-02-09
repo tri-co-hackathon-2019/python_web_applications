@@ -32,4 +32,16 @@ $ FLASK_APP=app.py flask run
  "Python apps image")
 * Setup Python App in the Software section 
 
+4) Click on Setup Python App.  You'll see a section titled "Setup new application."  Choose your prefered version of Python, enter a name for the app directory and then enter an App Domain/URI where the app can be accessed from the web.  Then click Setup. 
+
+5) Next we need to insall Flask.  In modules, enter "flask" and the version you'd like to use. Click add and then update. You should see that it's installed all the dependencies needed for Flask 
+| Click	7.0	[x]
+| Flask	1.0.2	[x]
+| itsdangerous	1.1.0	[x]
+| Jinja2	2.10	[x]
+| MarkupSafe	1.1.0	[x]
+| Werkzeug	0.14.1	[x]
+| wheel	0.29.0	[x]
+
+6) 
 
