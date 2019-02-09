@@ -2,7 +2,7 @@
 
 ### Section I Make the App
 
-1) Here's a very simple "Hello World" app from the [Flask documentation.](http://flask.pocoo.org/)  
+1) Here's a very simple "Hello World" app from the [Flask documentation.](http://flask.pocoo.org/).  In Mac or Linux, just type `cat > app.py` and paste the following into the file: 
 ```Python
 from flask import Flask
 app = Flask(__name__)
@@ -11,6 +11,12 @@ app = Flask(__name__)
 def hello():
     return "Hello World!"
  ```  
+ You can now run the app:
+ ```
+$ pip install Flask
+$ FLASK_APP=app.py flask run
+ * Running on http://localhost:5000/
+```
  
 ### Section II Deploy your App on sites.HC or digital.BMC
 1) Log in to [sites.haverford.edu](https://sites.haverford.edu/) or [digital.brynmawr.edu](https://digital.brynmawr.edu/)
