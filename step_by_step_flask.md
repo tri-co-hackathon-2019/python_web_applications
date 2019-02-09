@@ -43,5 +43,9 @@ $ FLASK_APP=app.py flask run
 - Werkzeug	0.14.1	[x]
 - wheel	0.29.0	[x]
 
-6) 
+6) Now move to the File Manager.  There should now be a folder with the name that you entered in step 4 with public and tmp subdirectories. 
+
+7) Select the public directory and then upload file.  You can now upload your app.py file from Section I. 
+
+8)
 
