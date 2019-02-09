@@ -6,6 +6,7 @@
 ```Python
 from flask import Flask
 app = Flask(__name__)
+application = app
 
 @app.route("/")
 def hello():
@@ -45,7 +46,7 @@ $ FLASK_APP=app.py flask run
 
 6) Now move to the File Manager.  There should now be a folder with the name that you entered in step 4 with public and tmp subdirectories. 
 
-7) Select the public directory and then upload file.  You can now upload your app.py file from Section I. 
+7) Select the public directory and then upload file.  You can now upload your app.py file from Section I. Note the path for the next step. For example: `Select the file you want to upload to “/home/ajancosi/testing/public”.`
 
-8)
+8) Now go back to Setup Python App.  Click on `WGI file location` and click Edit.  Here you enter the path to your file, the filename and :application.  So my file location will be `/home/ajancosi/testing/public` (from step 7), plus `app.py` (from section I step 1), and then `:application`.  Together I get `/home/ajancosi/testing/public/app.py:application`.
 
