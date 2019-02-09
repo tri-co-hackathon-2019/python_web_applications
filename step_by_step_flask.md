@@ -2,8 +2,16 @@
 
 ### Section I Make the App
 
+1) Here's a very simple "Hello World" app from the [Flask documentation.](http://flask.pocoo.org/)  
+```Python
+from flask import Flask
+app = Flask(__name__)
 
-
+@app.route("/")
+def hello():
+    return "Hello World!"
+ ```  
+ 
 ### Section II Deploy your App on sites.HC or digital.BMC
 1) Log in to [sites.haverford.edu](https://sites.haverford.edu/) or [digital.brynmawr.edu](https://digital.brynmawr.edu/)
 2) Click on Dashboard 
